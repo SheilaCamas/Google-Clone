@@ -26,4 +26,5 @@ Aprender aq utilizar las etiquetas HTML y la s´propiedades de csss a si como id
 
 ## ¡Link al Demos!
 Visualiza e mi proyecto terminado aqui 🤌[Clonacion de google](https://sheilacamas.github.io/)
+![clone](https://user-images.githubusercontent.com/131729936/234746999-d82d802c-55d4-4b49-9b00-49be9e4198fc.png)
 
