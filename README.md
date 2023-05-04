@@ -25,6 +25,6 @@ Este proyecto está enfocado cien porciento en la construcción de la interfaz d
 Aprender aq utilizar las etiquetas HTML y la s´propiedades de csss a si como identificar componentes base de un sitio web para anilizaralas y replicaralas.
 
 ## ¡Link al Demos!
-Visualiza e mi proyecto terminado aqui 🤌[Clonacion de google](https://sheilacamas.github.io/)
+Visualiza e mi proyecto terminado aqui 🤌[Clonacion de google](https://sheilacamas.github.io/Google-Clone/)
 ![clone](https://user-images.githubusercontent.com/131729936/234746999-d82d802c-55d4-4b49-9b00-49be9e4198fc.png)
 
